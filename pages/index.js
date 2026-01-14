@@ -1,8 +1,9 @@
 function Home() {
   return (
     <h1>
-      Grato por mais esse dia, por estar vivo, com saúde, em busca da minha
-      melhor versão.
+      Nesse ano de 2026 inicio uma nova etapa da minha vida; vou cursar ADS na
+      Fiap, que sejam 2 anos de muito aprendizado, desenvolvimento e de muitas
+      oportunidades.
     </h1>
   );
 }
